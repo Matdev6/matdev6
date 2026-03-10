@@ -1,4 +1,4 @@
-# Olá, eu sou Mateus 👋
+# Olá, eu sou Mateus Bernardo 👋
 
 💻 Desenvolvedor Frontend focado em React e Next.js  
 🚀 Experiência com APIs usando FastAPI e Node.js  
