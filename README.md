@@ -1,39 +1,24 @@
-# 👋 Olá, eu sou Mateus Bernardo
+# Olá, eu sou o Mateus Bernardo! 👋
 
-💻 **Desenvolvedor Frontend** focado em **React e Next.js**  
-🚀 Experiência no desenvolvimento de **APIs com FastAPI e Node.js**  
+Desenvolvedor Full Stack apaixonado por criar soluções modernas e eficientes. Atualmente focado no ecossistema JavaScript/TypeScript.
 
----
+## 🚀 Sobre mim
+- 📍 Baseado em Belo Horizonte, MG.
+- 💻 Especialista em React, Next.js e Node.js.
+- 🛠️ Experiência com Prisma, Tailwind CSS e integrações de API.
+- 🎨 Focado em entregar interfaces responsivas e com ótima performance (SEO).
 
-## 🚀 Tecnologias
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## 📌 Projetos em destaque
-
-🔹 **Eugenio Engenharia**  
-Landing page profissional para empresa de engenharia.
-
-🔹 **Plataforma de Beats**  
-Plataforma para exposição e venda de beats musicais.
-
-🔹 **Zaplo**  
-Plataforma focada na venda de **eBooks**.
-
----
+## 🛠️ Tecnologias
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📫 Contato
+- 📧 [mateusousa123@hotmail.com](mailto:mateusousa123@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mateus-bernardo-38542533a/)
+- 🌐 [Portfólio](https://mateus-port-ag9r.vercel.app/)
 
-💼 LinkedIn  
-https://www.linkedin.com/in/mateus-bernardo-38542533a/
-
-✉ Email  
-mateusousa123@hotmail.com
+---
+*Estou sempre aberto a novos desafios e colaborações!*
