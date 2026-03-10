@@ -14,7 +14,7 @@
 
 ## 📌 Projetos em destaque
 
-- Eugenio Engenharia Lading Page
+- Eugenio Engenharia Landing Page
 - Plataforma de Beats
 - Zaplo (venda de eBooks)
 
