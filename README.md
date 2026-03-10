@@ -23,9 +23,6 @@ Landing page profissional para empresa de engenharia.
 🔹 **Plataforma de Beats**  
 Plataforma para exposição e venda de beats musicais.
 
-🔹 **Zaplo**  
-Plataforma focada na venda de **eBooks**.
-
 ---
 
 ## 📫 Contato
