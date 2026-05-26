@@ -2,56 +2,27 @@
 
 # Mateus Bernardo
 
-### Desenvolvedor Frontend focado em interfaces modernas, performance e experiência do usuário
+### Desenvolvedor Frontend • React • Next.js • TypeScript
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/mateus-bernardo-38542533a/)
-[![Email](https://img.shields.io/badge/Contato-111827?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:mateusousa123@hotmail.com)
-
-<br>
-
-![](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Criando+interfaces+modernas+e+performáticas;Foco+em+experiência+do+usuário;React+•+Next.js+•+TypeScript)
+![](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Interfaces+modernas+e+performáticas;Experiências+digitais+com+foco+em+usabilidade;UI+Engineering+•+Frontend+Architecture)
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-```ts
-const mateus = {
-  foco: "Frontend Development",
+Desenvolvedor frontend especializado na criação de interfaces modernas, responsivas e visualmente refinadas, com foco em performance, usabilidade e experiência do usuário.
 
-  trabalhandoCom: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "TailwindCSS"
-  ],
+Possuo experiência no desenvolvimento de aplicações utilizando React, Next.js e TypeScript, além da integração com APIs REST e construção de interfaces escaláveis para aplicações web modernas.
 
-  backend: [
-    "Node.js",
-    "Express",
-    "PostgreSQL"
-  ],
-
-  estudando: [
-    "Arquitetura Frontend",
-    "Performance",
-    "Design Systems",
-    "UI Engineering"
-  ]
-}
-```
-
-Desenvolvedor frontend focado em criar aplicações modernas, responsivas e visualmente refinadas.
-
-Tenho experiência no desenvolvimento de interfaces com React e Next.js, integração com APIs REST, autenticação, upload de arquivos e construção de experiências digitais com atenção aos detalhes.
+Atualmente aprofundando conhecimentos em arquitetura frontend, componentização, design systems e engenharia de interfaces no ecossistema React.
 
 ---
 
-# Tecnologias
+## 🚀 Tecnologias
 
 <div align="center">
 
@@ -61,7 +32,7 @@ Tenho experiência no desenvolvimento de interfaces com React e Next.js, integra
 
 ---
 
-# Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -74,22 +45,12 @@ Tenho experiência no desenvolvimento de interfaces com React e Next.js, integra
 
 ---
 
-# Contato
+## 🌎 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/mateus-bernardo-38542533a/) [![Email](https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:mateusousa123@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/mateus-bernardo-38542533a/)
 
-
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-Transformando ideias em experiências digitais modernas.
-```
+[![Email](https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:mateusousa123@hotmail.com)
 
 </div>
