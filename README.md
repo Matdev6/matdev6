@@ -1,50 +1,95 @@
+<div align="center">
+
 # Mateus Bernardo
 
-> Frontend Developer especializado em React, Next.js e interfaces modernas.
+### Desenvolvedor Frontend focado em interfaces modernas, performance e experiência do usuário
 
 <br>
 
-## Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/mateus-bernardo-38542533a/)
+[![Email](https://img.shields.io/badge/Contato-111827?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:mateusousa123@hotmail.com)
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=316192)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
+<br>
 
----
+![](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Criando+interfaces+modernas+e+performáticas;Foco+em+experiência+do+usuário;React+•+Next.js+•+TypeScript)
 
-## Sobre
-
-Desenvolvedor frontend focado na criação de aplicações modernas, rápidas e bem estruturadas.
-
-Tenho experiência no desenvolvimento de interfaces com React e Next.js, integração com APIs e construção de backends utilizando Node.js.
-
-Atualmente estudando arquitetura frontend, performance e experiência do usuário.
+</div>
 
 ---
 
-## Projetos
+# 👨‍💻 Sobre mim
 
-### Eugenio Engenharia
-Landing page institucional com foco em visual premium, responsividade e performance.
+```ts
+const mateus = {
+  foco: "Frontend Development",
 
-### Plataforma de Beats
-Plataforma para exposição e venda de beats musicais com integração completa entre frontend e backend.
+  trabalhandoCom: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "TailwindCSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express",
+    "PostgreSQL"
+  ],
+
+  estudando: [
+    "Arquitetura Frontend",
+    "Performance",
+    "Design Systems",
+    "UI Engineering"
+  ]
+}
+```
+
+Desenvolvedor frontend focado em criar aplicações modernas, responsivas e visualmente refinadas.
+
+Tenho experiência no desenvolvimento de interfaces com React e Next.js, integração com APIs REST, autenticação, upload de arquivos e construção de experiências digitais com atenção aos detalhes.
 
 ---
 
-## Estatísticas
+# Tecnologias
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=c9d1d9)
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github,nodejs,postgres,docker,vercel)
+
+</div>
 
 ---
 
-## Contato
+# Estatísticas do GitHub
 
-[LinkedIn](https://www.linkedin.com/in/mateus-bernardo-38542533a/)
+<div align="center">
 
-mateusousa123@hotmail.com
+<img 
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matdev6&theme=tokyonight" 
+/>
+
+</div>
+
+---
+
+# Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/mateus-bernardo-38542533a/) [![Email](https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:mateusousa123@hotmail.com)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+Transformando ideias em experiências digitais modernas.
+```
+
+</div>
