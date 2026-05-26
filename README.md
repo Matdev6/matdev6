@@ -50,7 +50,6 @@ Atualmente aprofundando conhecimentos em arquitetura frontend, componentização
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/mateus-bernardo-38542533a/)
-
 [![Email](https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:mateusousa123@hotmail.com)
 
 </div>
