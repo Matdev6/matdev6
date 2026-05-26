@@ -1,29 +1,46 @@
-<div align="center">
-
 # Mateus Bernardo
 
-### Frontend Developer • React • Next.js
+### Frontend Developer • React • Next.js • TypeScript
 
 Construindo interfaces modernas, performáticas e com foco em experiência do usuário.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-bernardo-38542533a/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusousa123@hotmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-bernardo-38542533a/)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusousa123@hotmail.com)
 
 ---
 
 ## Sobre mim
 
-Desenvolvedor frontend especializado em **React** e **Next.js**, criando aplicações modernas, responsivas e bem estruturadas.
+```ts
+const mateus = {
+  role: "Frontend Developer",
+  
+  mainStack: [
+    "React",
+    "Next.js",
+    "TypeScript"
+  ],
 
-Também possuo experiência no desenvolvimento de APIs utilizando **Node.js**, integração com bancos de dados e deploy de aplicações.
+  backend: [
+    "Node.js",
+    "Express"
+  ],
+
+  database: [
+    "PostgreSQL"
+  ],
+
+  currentlyLearning: [
+    "Frontend Architecture",
+    "Performance",
+    "UI/UX"
+  ]
+}
+```
 
 ---
 
 ## Stack Principal
-
-<div align="center">
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -31,42 +48,48 @@ Também possuo experiência no desenvolvimento de APIs utilizando **Node.js**, i
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-</div>
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
 ---
 
 ## Projetos em Destaque
 
 ### Eugenio Engenharia
-Landing page profissional desenvolvida para uma empresa de engenharia, com foco em identidade visual moderna, responsividade e performance.
+Landing page institucional desenvolvida com foco em design moderno, responsividade e performance.
 
-### Plataforma de Beats
-Plataforma para exposição e venda de beats musicais, com painel administrativo e integração entre frontend e backend.
+**Stack**
+- React
+- TypeScript
+- TailwindCSS
 
 ---
 
-## Atualmente estudando
+### Plataforma de Beats
+Plataforma para exposição e venda de beats musicais com painel administrativo e integração backend.
 
-- Arquitetura Frontend
-- Performance Web
-- UI/UX para aplicações modernas
-- Backend com Node.js
+**Stack**
+- React
+- Node.js
+- PostgreSQL
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=FFFFFF)
 
 ---
 
 ## Contato
 
-📩 **Email:**  
-mateusousa123@hotmail.com
+- LinkedIn  
+  https://www.linkedin.com/in/mateus-bernardo-38542533a/
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/mateus-bernardo-38542533a/
+- Email  
+  mateusousa123@hotmail.com
 
 ---
 
-<div align="center">
-
-### Obrigado pela visita 🚀
-
-</div>
+> “Transformando ideias em experiências digitais.”
